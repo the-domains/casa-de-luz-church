@@ -1,0 +1,28 @@
+name: Casa de Luz Church
+favicon: null
+layout_spectrum: 0.6934345103800297
+typography_spectrum: 0.011266050860285759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9653605916537344
+  lightness: 0.794164190068841
+  saturation: 0.9353813107591122
+  rhythmicContrast: 0.40240612579509616
+purpose: []
